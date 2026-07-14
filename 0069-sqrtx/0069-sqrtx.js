@@ -3,6 +3,6 @@
  * @return {number}
  */
 var mySqrt = function(x) {
-    const sqrt = ~~(x ** 0.5);
+    const sqrt = Math.trunc(x ** 0.5);
     return sqrt;
 };
