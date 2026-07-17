@@ -18,6 +18,7 @@
 | [0009-palindrome-number](https://github.com/joaogcardoso/Leetcode-progress/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/joaogcardoso/Leetcode-progress/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/joaogcardoso/Leetcode-progress/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/joaogcardoso/Leetcode-progress/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/joaogcardoso/Leetcode-progress/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -27,9 +28,14 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/joaogcardoso/Leetcode-progress/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/joaogcardoso/Leetcode-progress/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/joaogcardoso/Leetcode-progress/tree/master/0268-missing-number) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/joaogcardoso/Leetcode-progress/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
