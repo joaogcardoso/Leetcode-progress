@@ -5,8 +5,7 @@
 var isPowerOfTwo = function(n) {
     let bools = [];
     for (let i = -31; i <= 31; i++) {
-        let powerOfTwo = 2 ** i === n ? true : false;
-        if (powerOfTwo === true) {
+        if (2 ** i === n) {
             return true;
         }
     }
