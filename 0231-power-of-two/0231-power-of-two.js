@@ -6,7 +6,9 @@ var isPowerOfTwo = function(n) {
     let bools = [];
     for (let i = -31; i <= 31; i++) {
         let powerOfTwo = 2 ** i === n ? true : false;
-        bools.push(powerOfTwo);
+        if (powerOfTwo === true) {
+            return true;
+        }
     }
-    return bools.some(b => b === true);
+    return false;
 };
